@@ -33,7 +33,6 @@ font-family: 'Montserrat', sans-serif; */
 }
 
 .navbar-margin {
-    padding: ;
     box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
     position: relative;
     background: #fff;
@@ -349,7 +348,7 @@ footer {
 .portfolio-content p{
     font-family: 'EB Garamond', serif;
     color: #fff;
-    padding: 0 250px 30px; 250px;
+    padding: 0 250px 30px 250px;
     font-size: 20px;
     letter-spacing: 0;
    
